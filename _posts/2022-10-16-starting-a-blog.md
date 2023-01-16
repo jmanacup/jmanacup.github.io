@@ -3,6 +3,7 @@ layout: post
 title: Starting a Blog
 subtitle: Why did I start creating a blog?
 cover-img: "https://images.unsplash.com/photo-1574192324001-ee41e18ed679?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+thumbnail-img: ""
 tags: [life]
 ---
 
