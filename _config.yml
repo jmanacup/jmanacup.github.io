@@ -125,7 +125,7 @@ hover-col: "#88b3b9"
 footer-col: "#edf8fc"
 footer-text-col: "#585959"
 footer-link-col: "#0b1b32"
-footer-hover-col: "#ebe2b7"
+footer-hover-col: "#88b3b9"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

@@ -44,7 +44,6 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  color: #585959;
   font-family: 'Calibre','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.1;
@@ -54,7 +53,6 @@ h1 {
 }
 h2 {
   font-size: 1.875rem;
-  color: #5d6c80;
   display:inline;
 }
 h3 {
