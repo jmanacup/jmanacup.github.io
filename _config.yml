@@ -115,16 +115,16 @@ keywords: "tech, blog, experience, software engineer, software, programming, joh
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#585959"
-navbar-text-col: "#edf8fc"
-navbar-border-col: "#0b1b32"
+navbar-col: "#edf8fc"
+navbar-text-col: "#585959"
+navbar-border-col: "#edf8fc"
 page-col: "#edf8fc"
 text-col: "#585959"
 link-col: "#0b1b32"
 hover-col: "#585959"
-footer-col: "#0b1b32"
+footer-col: "#edf8fc"
 footer-text-col: "#585959"
-footer-link-col: "#edf8fc"
+footer-link-col: "#0b1b32"
 footer-hover-col: "#ebe2b7"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
