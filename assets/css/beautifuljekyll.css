@@ -54,6 +54,7 @@ h1 {
 }
 h2 {
   font-size: 1.875rem;
+  color: #72859d;
   display:inline;
 }
 h3 {
@@ -360,7 +361,7 @@ img {
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
   margin-left: -50%;
-  background-color: #585959;
+  background-color: #edf8fc;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
