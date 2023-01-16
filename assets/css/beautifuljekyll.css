@@ -893,9 +893,9 @@ table tr td :last-child {
 
 code {
   padding: 0.125rem 0.25rem;
-  color: #fff5c4;
+  color: #fff;
   font-size: 1rem;
-  background-color: #373c54;
+  background-color: #8b8b8b;
   border-radius: 0.25rem;
 }
 
@@ -979,15 +979,14 @@ pre {
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
-  border: 1px solid #eee;
+  border: 1px solid #88b3b9;
   border-left-width: 0.3125rem;
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
 }
 
 .box-note {
-  background-color: #5a5e66;
   color: #fff;
-  border-left-color: #fff5c4;
+  border-left-color: #88b3b9;
 }
 
 .box-warning {
@@ -1177,5 +1176,5 @@ pre {
   width:            2.5em;
   height:           2.5em;
   font-family: 'Open Sans', sans-serif;
-  background-color: #F8F8F8;
+  background-color: #585959;
 }
