@@ -7,7 +7,7 @@ thumbnail-img: ""
 tags: [Life]
 ---
 
-Given the fact that I already graduated from College and now working a full-time job, I thought to myself.... Why did I suddenly created a personal blog? Is it for fame? Is it for my job hunting, or to create another project I would not touch again. The answer is....
+Given the fact that I already graduated from College and now working a full-time job, I thought to myself.... Why did I suddenly created a personal blog? Is it for fame? Is it for my job hunting, or to create another project I would not touch again. The answer, as simple as it is, is because,
 
 <center><h2>I just want to share!</h2></center>
 
