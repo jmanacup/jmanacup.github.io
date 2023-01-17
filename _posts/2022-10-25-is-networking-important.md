@@ -4,7 +4,7 @@ title: Networking
 subtitle: Is it really important in getting a job?
 cover-img: "https://images.unsplash.com/photo-1520564816385-4f9d711941aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 thumbnail-img: ""
-tags: [life]
+tags: [Life]
 ---
 
 It was a lovely morning and my girlfriend and I were about to start our day---going to starbucks and staying **6+ hours** studying and doing work---when all of a sudden, we saw the man beside us was doing a complex `Python` code. Being the shy one in the relationship, I just shrugged myself off and just assumed that he was just a student studying computer science. The starbucks was also close to `Texas Tech` as well so it's a good assumption. But my girlfriend, the brave one, asked if he was a software engineer, he said "yes" My eyes got bigger than the croissant I was eating. It was as if you met a professional basketball player. At that brief moment, I got super ecstatic.
