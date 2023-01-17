@@ -837,6 +837,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-family: 'Calibre', sans-serif;
   text-transform: uppercase;
   background-color: transparent;
+  border: 2px solid #000;
   font-size: 1rem;
   font-weight: 800;
   letter-spacing: 1px;
